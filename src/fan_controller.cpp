@@ -1,0 +1,3 @@
+/**
+ * FanController Class
+ */
